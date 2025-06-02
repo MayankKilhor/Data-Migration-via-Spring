@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48d0c423-f084-41f1-b2a9-0e0e6e62c56e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Controller/BarcodeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/Request/BOM/ShippingLocRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/enums/ShippingLoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Controller/BOMController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Controller/BOMController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Controller/QualityCheckController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Controller/QualityCheckController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Model/BomPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Model/BomPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Model/BomTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Model/BomTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Model/Parts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Model/Parts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/PDF/PickLabelPdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/PDF/PickLabelPdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/PDF/PickLabelnew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/PDF/PickLabelnew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/Response/PickLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/Response/MIRN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/enums/BomPartStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/enums/BomPartStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/enums/BomTableStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/enums/BomTableStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/enums/FileUploadBOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Payload/enums/FileUploadBOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Repository/BomPartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Repository/BomPartRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Repository/BomTableRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Repository/BomTableRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Service/BomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Service/BomService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Service/S3ParquetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Service/S3ParquetService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ombzU46y1Jw4eyNvmMM6ehfMSj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spaceage.logistics.Payload.enums" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LogisticsApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spaceage.logistics.LogisticsApplication" />
+      <module name="logistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spaceage.logistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="New-SpaceAge-Logistics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="New-SpaceAge-Logistics" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48d0c423-f084-41f1-b2a9-0e0e6e62c56e" name="Changes" comment="" />
+      <created>1731477966166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731477966166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/spaceage/logistics/Model/BomTable.java</url>
+          <line>238</line>
+          <properties class="com.spaceage.logistics.Model.BomTable" method="setShipping">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
